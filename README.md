@@ -11,3 +11,8 @@ In case you have nodemon installed
 ```
 nodemon src/index.js
 ```
+
+With all that out of the way, go to
+```
+http://localhost:3002/api/lang
+```
