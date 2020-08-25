@@ -1,4 +1,4 @@
-# Gemography-backend-coding-challenge
+# Github Trend
 List trending languages on Github for the last month
 
 # How to run
